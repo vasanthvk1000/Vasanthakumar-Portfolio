@@ -26,7 +26,6 @@ const About = () => {
               <article className='about__card'>
                   <GiGraduateCap className='about__icon'/>
                   <h5>Course</h5>
-                  <h5>Course</h5>
                   <small>Fullstack Developer <br />(2023 - 2024) <br /><i>Coimbatore</i></small>
               </article>
 
